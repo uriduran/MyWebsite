@@ -1,9 +1,10 @@
-# Uriel-Homepage
+#Personal Homepage
 
-Repo for the homepage of UrielDuran.com
-Constant changes will occur.
+Website for urielduran.me.
 
-Version Notes
+## Future Plan ##
+Add in a portfolio for other created websites.
+Add in github button to link here.
 
 *1.0*
 - Created homepage with buttons as well as contact form.
