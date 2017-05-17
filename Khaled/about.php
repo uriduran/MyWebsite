@@ -37,9 +37,10 @@
         <div class="container">
             <div class="intro">
                 <h2 class="text-center" style="font-family:Roboto, sans-serif;">Why though?</h2>
-                <p class="text-center" style="font-family:Roboto, sans-serif;">Everyone knows DJ Khaled is a living legend. I need to continue practicing web development so I figured I'd honor a great. Bless Up. Major Key. We The Best.</p>
+                <p class="text-center" style="font-family:Roboto, sans-serif;">Everyone knows DJ Khaled is a living legend. I need to continue practicing web development so I figured I'd
+                    honor a great. Bless Up. Major Key. We The Best.</p>
             </div>
-            <div class="buttons"><a class="btn btn-primary" role="button" href="#" style="font-family:Roboto, sans-serif;">Home Page Github</a>
+            <div class="buttons"><a class="btn btn-primary" role="button" href="https://github.com/uriduran/uriduran.github.io" style="font-family:Roboto, sans-serif;">Home Page Github</a>
                 <button class="btn btn-default" type="button" style="font-family:Roboto, sans-serif;">Return to Urielduran.me</button>
             </div>
         </div>

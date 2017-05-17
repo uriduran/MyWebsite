@@ -25,8 +25,12 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navcol-1">
                     <ul class="nav navbar-nav">
-                        <li class="active" role="presentation" style="font-size:25px;margin-top:5px;"><a href="#" style="font-family:Roboto, sans-serif;font-size:20px;"><i class="fa fa-key" style="margin-right:8px;"></i>Home </a></li>
-                        <li role="presentation"><a href="#" style="font-size:20px;font-family:Roboto, sans-serif;margin-top:5px;"><i class="fa fa-key" style="margin-right:8px;"></i>About </a></li>
+                        <li class="active" role="presentation" style="font-size:25px;margin-top:5px;">
+                            <a href="index.html" style="font-family:Roboto, sans-serif;font-size:20px;">
+                                <i class="fa fa-key" style="margin-right:8px;"></i>Home </a></li>
+                        <li role="presentation"><a href="about.html" style="font-size:20px;font-family:Roboto, sans-serif;margin-top:5px;">
+                            <i class="fa fa-key" style="margin-right:8px;">
+                                </i>About </a></li>
                     </ul>
                     <p class="navbar-text navbar-right actions" style="margin-bottom:7px;float:right;display:block;"> </p>
                 </div>
